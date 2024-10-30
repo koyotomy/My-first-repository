@@ -4,6 +4,7 @@ html {
 }
 h1, h2{
     font-family: 'Sans', 'Lucida Sans Regular';
+    color: darkred;
 }
 p {
     font-family: 'Sans', 'Lucida Sans Regular';
